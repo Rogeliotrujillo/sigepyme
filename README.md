@@ -1,20 +1,20 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 📦 SIGE-PYME
 
-# Run and deploy your AI Studio app
+Prototipo web para la gestión de inventario, ventas y clientes en PYMEs de Panamá.
 
-This contains everything you need to run your app locally.
+🌐 **Demo en vivo:** [https://sigepyme.netlify.app/](https://sigepyme.netlify.app/)
 
-View your app in AI Studio: https://ai.studio/apps/797c0597-e9d6-48c5-af63-de7f491c5736
+## 🛠️ Tecnologías
+- **Frontend:** React, TypeScript, Vite
+- **Hosting:** Netlify
+- **Control de versiones:** Git + GitHub
 
-## Run Locally
+## 🛣️ Estado del Proyecto
+- [x] Prototipo visual desplegado en Netlify.
+- [ ] Subida del código fuente e implementación de ramas (`main`, `develop`).
+- [ ] Creación del `CHANGELOG.md` y control de cambios.
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 👥 Autores
+- Rogelio Trujillo
+- Larry De León
+- Marcos Joseph
