@@ -1,0 +1,6 @@
+{
+  "name": "SIGE-PYME",
+  "description": "Sistema de gestión empresarial para PYMES con punto de venta, inventario y control de clientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
